@@ -1,1 +1,1 @@
-# tourist_at_sea.github.com
+# tourist_at_sea.github.io
